@@ -52,11 +52,13 @@ Roadmap
 - [X] [Notifications of new annotations](https://docs.google.com/a/hypothes.is/document/d/1gD38gLJB7uxf2NZDqbuxUF1gRzHpqLhxkqNf5IVn8As) - click to load (simplified version of realtime updating) ([issue #568](https://github.com/hypothesis/h/issues/568))
 - [ ] Appify the website (login, register, etc)
 - [ ] Architecture / infrastructure work
-    - [ ] Interframe communication
-        - [ ] Being able to target an iFrame for use with [Epub.js](https://github.com/fchasen/epub.js) and others.
-        - [ ] Listening mode ([issue 43](https://github.com/hypothesis/h/issues/43))
-        - [ ] Enable turning off h. from page action icon ([issue 468](https://github.com/hypothesis/h/issues/468))
-    - [X] Unit/functional testing
+    - [X] Interframe communication
+        - [X] Being able to target an iFrame for use with [Epub.js](https://github.com/fchasen/epub.js) and others.
+    - [ ] Listening mode ([issue 43](https://github.com/hypothesis/h/issues/43))
+    - [ ] Enable turning off h. from page action icon ([issue 468](https://github.com/hypothesis/h/issues/468))
+    - [ ] Unit/functional testing basic hooks
+        - [ ] front-end
+        - [X] back-end
 
 ### Post MVP Features
 - [X] Wordpress Plugin ([early but fully functional version](http://wordpress.org/plugins/hypothesis/))
