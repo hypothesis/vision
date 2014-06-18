@@ -1,7 +1,7 @@
 User Archetypes
 ===========
 
-It might be useful for us to have notions of archetypal users of Hypothes.is.  Each of us could play different roles at different times.  Archetypes will have specific objectives and because of those specific requirements, patterns of use and interactions with other counterparties.
+It might be useful for us to have notions of archetypal users of Hypothes.is.  Each of us can play different roles at different times.  Archetypes have specific objectives and because of those, patterns of use and interactions with other counterparties.
 
 This is an incomplete list, with stub descriptions.  Please help complete and refine.
 
