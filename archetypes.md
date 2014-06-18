@@ -9,7 +9,7 @@ The Student
 --------------
 Annotates class material both for personal note taking and also for collaborative discussion with other classmates, both for informal benefit, but also as a class requirement.
 
-The Teacher
+The Educator
 --------------
 Forms groups around classes and class sections where they can follow and respond to the reading, thinking and lesson work of students as they annotate.
 
