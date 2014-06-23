@@ -37,7 +37,7 @@ The Bookmarker (Web surfer)
 ---------------------------------
 Wants to annotate and tag articles as they surf for personal organization and archiving.
 
-The Redditor
+The Commenter
 ---------------
 Wants to see commentary from Reddit, Hacker News, Twitter and other sources folded onto the web wherever they are.  Eventually probably wants to be able to reply to threads in place without having to go back 
 
