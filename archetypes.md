@@ -13,14 +13,6 @@ The Educator
 --------------
 Forms groups around classes and class sections where they can follow and respond to the reading, thinking and lesson work of students as they annotate.
 
-The Open Government Advocate
-------------------------------------
-Works collaboratively with peers to critique, often privately, but sometimes publicly key government documents both publicly available at government websites, but also sourced in other ways and posted via blogs or other ways (Document Cloud, etc)
-
-The Journalist
-----------------
-Does research for potential stories by privately annotating source material across the web.
-
 The Researcher
 ------------------
 Takes private field notes on ongoing research, and also on related journal articles.  Works collaboratively to co-author papers, through drafting and then submission to journals.  Responds to critique by other authors and reviewers, edits, resolves annotations.  Also may serve as a Reviewer.
@@ -33,7 +25,7 @@ The Editor
 ------------
 Accepts submissions for journal articles, identifies reviewers, coordinates the process of the review.  Sets up and defines the type of review being done (within the guidelines of their publication), and the visibility and permission model of group settings to fit.  Potentially aggregates and harmonizes reviews to provide guidance to authors.  Coordinates with authors on the revision of the article.  Accepts for publication.  Moves to proofing.  Publishes.
 
-The Bookmarker (Web surfer)
+The Web Surfer
 ---------------------------------
 Wants to annotate and tag articles as they surf for personal organization and archiving.
 
