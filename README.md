@@ -9,4 +9,6 @@ Our efforts are based on the <a title="Annotator" href="http://okfnlabs.org/proj
 We're using this repo for managing the overarching roadmap for our various
 projects and ideas concerning open annotation and its implementation.
 
+Anything tagged with the label "Roadmap: Major" will show up on the [hypothes.is/roadmap page.](http://hypothes.is/roadmap)
+
 [Action happens in the Issues of this repo on GitHub.](http://github.com/hypothesis/vision/issues/)
