@@ -11,9 +11,9 @@ Please help us to complete and refine these descriptions.
 Researcher
 ----------
 
-This archetype is characterized by personal objectives.  The interactions are
+*This archetype is characterized by personal objectives.  The interactions are
 limited to themselves, and are dominated by organizational and note-taking
-tasks.
+tasks.*
 
 The researcher takes private field notes via personal, “Only Me” visible
 annotations on the web, and also to use tags to help organize those annotations
@@ -25,9 +25,9 @@ Examples: students, scientists, journalists.
 Copy-editor
 -----------
 
-This archetype is characterized by group objectives.  The interactions are
+*This archetype is characterized by group objectives.  The interactions are
 primarily with a team of others in a private group, usually < 10 members in
-size.
+size.*
 
 The Copy-editor works collaboratively with others to proof, critique and provide
 structured feedback on documents, manuscripts, code and other works.  The
@@ -50,10 +50,10 @@ Examples: co-authors, editors, reviewers.
 Commenter
 ---------
 
-This archetype is defined primarily by public objectives.  The interactions are
+*This archetype is defined primarily by public objectives.  The interactions are
 primarily with peers in a public group of undefined, or unlimited size, and take
 place over an unbounded time frame (i.e. the long tail of post-publication
-commentary).
+commentary).*
 
 The commenter wants to engage with their peers to discuss the content of the
 source document.  They may want to ask questions, weigh in with a personal or
