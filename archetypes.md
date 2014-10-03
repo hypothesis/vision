@@ -1,50 +1,78 @@
 User Archetypes
-===========
+===============
 
-It might be useful for us to have notions of archetypal users of Hypothes.is.  Each of us can play different roles at different times.  Archetypes have specific objectives and because of those, patterns of use and interactions with other counterparties.
+It might be useful for us to have notions of archetypal users of Hypothes.is.
+These serve as a shorthand to talk about the needs of different kinds of user,
+and help us to write focused user stories.
 
-This is an incomplete list, with stub descriptions.  Please help complete and refine.
+Please help us to complete and refine these descriptions.
 
-The Student
---------------
-Annotates class material both for personal note taking and also for collaborative discussion with other classmates, both for informal benefit, but also as a class requirement.
 
-The Educator
---------------
-Forms groups around classes and class sections where they can follow and respond to the reading, thinking and lesson work of students as they annotate.
+Researcher
+----------
 
-The Researcher
-------------------
-Takes private field notes on ongoing research, and also on related journal articles.  Works collaboratively to co-author papers, through drafting and then submission to journals.  Responds to critique by other authors and reviewers, edits, resolves annotations.  Also may serve as a Reviewer.
+This archetype is characterized by personal objectives.  The interactions are
+limited to themselves, and are dominated by organizational and note-taking
+tasks.
 
-The Reviewer
----------------
-Provides structured feedback around article submissions.  Does so either once, or in stages according to the review process.  May potentially interact openly or anonymously with other reviewers and authors depending on the style of peer-review and the nature of the publication.
+The researcher takes private field notes via personal, “Only Me” visible
+annotations on the web, and also to use tags to help organize those annotations
+and bookmark and classify web resources.
 
-The Editor
-------------
-Accepts submissions for journal articles, identifies reviewers, coordinates the process of the review.  Sets up and defines the type of review being done (within the guidelines of their publication), and the visibility and permission model of group settings to fit.  Potentially aggregates and harmonizes reviews to provide guidance to authors.  Coordinates with authors on the revision of the article.  Accepts for publication.  Moves to proofing.  Publishes.
+Examples: students, scientists, journalists.
 
-The Web Surfer
----------------------------------
-Wants to annotate and tag articles as they surf for personal organization and archiving.
 
-The Commenter
----------------
-Wants to see commentary from Reddit, Hacker News, Twitter and other sources folded onto the web wherever they are.  Eventually probably wants to be able to reply to threads in place without having to go back 
+Copy-editor
+-----------
 
-The Reader
--------------
-Wants to annotate books as a way of reading more critically.  Might want to participate in a book club with others.
+This archetype is characterized by group objectives.  The interactions are
+primarily with a team of others in a private group, usually < 10 members in
+size.
 
-The Site- or Content Owner
--------------------------------
-Wants to efficiently browse- and filter all annotations regarding to the site/content. Might create “headlights” annotations which are important for all people who had annotated the site/content.
+The Copy-editor works collaboratively with others to proof, critique and provide
+structured feedback on documents, manuscripts, code and other works.  The
+annotations and notes that are made are likely tagged in a way that indicates
+the type of suggestion: Spelling Correction, Grammar Correction, Question,
+Remove, Insert, Suggested rewording, Disagree, Agree, etc.  Some of these could
+be coupled with built in actions, like an “accept” feature to modify the
+underlying source text with a Spelling Correction for instance.  We also imagine
+a “Resolve” flag that would allow copy-editing suggestions, once acted upon, to
+be removed from view in a way that signals back to their creator in case of
+disagreement.
 
-The Information Organizer / Disseminator (individual or organization)
-------------------------------------------------------------------------------
-Wants to synthesize the information available about a given area of interest, and then present the various bits and pieces it in a more accessible/discoverable format. Does what the researcher does to explore various areas. Reads reports, articles and books, looks for proof supporting/refuting various competing theories. Builds and publishes documents mostly by transcluding (sometimes also translating) the collected data. A large part of the work might turn out to be countering misinformation being spread by ignorant people / adversaries.
+The copy-editing archetype underlies the peer-review use case, and would enable
+the workflow between authors, editors and reviewers.  Co-authors also of course
+use copy-editing in the course of working collaboratively on a document.
 
-The Developer
-----------------
-Wants to build other annotation services or integrate their applications with annotation. Often they work providing solutions for all of the users archetypes above.
+Examples: co-authors, editors, reviewers.
+
+
+Commenter
+---------
+
+This archetype is defined primarily by public objectives.  The interactions are
+primarily with peers in a public group of undefined, or unlimited size, and take
+place over an unbounded time frame (i.e. the long tail of post-publication
+commentary).
+
+The commenter wants to engage with their peers to discuss the content of the
+source document.  They may want to ask questions, weigh in with a personal or
+professional opinion, disagree about public policy, petition their government
+for change, crack a joke, or simply commiserate with others about shared
+context.  Similar to the use case for Reddit, Hacker News, Twitter and other
+social media platforms-- but folded onto the web wherever they are.
+
+This archetype also serves authors that may want to footnote their own works--
+but in a way that could also provide the seeds for further discussion with their
+readers.
+
+Examples: students, citizens, authors.
+
+
+Developer
+---------
+
+Wants to build other annotation services or integrate their applications with
+annotation. Often they work providing solutions for all of the users archetypes
+above.
+
